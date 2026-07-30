@@ -1,1 +1,2 @@
-#write you code here
+print("welcome to python")
+print("welcome to kodnest future developer")

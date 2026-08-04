@@ -1,0 +1,12 @@
+age="25"
+fee="499.50"
+attempts=3
+age=int(age)
+fee=float(fee)
+attempts=str(attempts)
+print(age)
+print(type(age))
+print(fee)
+print(type(fee))
+print(attempts)
+print(type(attempts))
